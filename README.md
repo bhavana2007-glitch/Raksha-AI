@@ -1,8 +1,10 @@
 # Raksha-AI
 AI based emergency responce system
 **"Instant Care. In Every Indian Language."**
+## 🎥 Demo / Presentation
+👉 [View Project PPT] https://github.com/bhavana2007-glitch/Raksha-AI/blob/main/RakshaAI.pdf
 
-👩‍💻 Team: Tech Titans
+👩‍💻 Team: Tech Divas
 🏫 Institution: Chennai Institute of Technology  
 
 ---
